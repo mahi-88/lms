@@ -1,4 +1,4 @@
-# í³š Learning Management System (LMS)
+# í³š Novelty Learning Management System (LMS)
 
 A modern Learning Management System built for educational institutions and online learning platforms.
 
